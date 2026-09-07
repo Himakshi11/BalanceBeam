@@ -1,0 +1,22 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Left triangle -->
+  <path d="M4 47L18 19L32 47H4Z" fill="#FBBF24" />
+
+  <!-- Right triangle -->
+  <path d="M34 47L48 19L62 47H34Z" fill="#F59E0B" />
+
+  <!-- Lightning bolt -->
+  <path
+    d="M33 4L18 34H30L25 60L46 27H34L42 4H33Z"
+    fill="#FFF7ED"
+    stroke="#F97316"
+    stroke-width="2.5"
+    stroke-linejoin="round"
+  />
+</svg>
